@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+body {
+  background-color: beige;
+  width: 600px;
+  height: 500px;
+  justify-content: center;
+  text-align: left;
+}
+
+.container {
+  font-family: "Courier New", Courier, monospace;
+  text-transform: capitalize;
+  font-size: 10px;
+  margin: 100px;
+}
+
+h1 {
+  margin: 10px auto;
+  text-align: center;
+}
+
+dt {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+dd {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  color: #666;
+  line-height: 10px;
+}
